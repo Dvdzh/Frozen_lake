@@ -1,7 +1,6 @@
-**Deep Q-Learning pour Frozen Lake v1**
+**DQN (Deep Q-learning Network) for FrozenLake-V1 from gym OpenAI**
 
-Lancer pip install -r requierement.txt
-
-Créer venv : python3 -m venv /path
-
-Deux observations possibles 
+Etapes à suivre :
+- forker/cloner le projet 
+- ajouter un environnement virtuel (si nécessaire)
+- lancer le notebook 
