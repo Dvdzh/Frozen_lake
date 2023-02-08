@@ -3,4 +3,5 @@
 Etapes à suivre :
 - forker/cloner le projet 
 - ajouter un environnement virtuel (si nécessaire)
+- unzip les poids 
 - lancer le notebook 
