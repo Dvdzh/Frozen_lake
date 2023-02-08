@@ -5,3 +5,6 @@ Etapes à suivre :
 - ajouter un environnement virtuel (si nécessaire)
 - unzip les poids 
 - lancer le notebook 
+
+Test : 
+![](https://github.com/Frozen_lake/FrozenLake_train.gif)
