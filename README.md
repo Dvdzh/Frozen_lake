@@ -7,4 +7,4 @@ Etapes à suivre :
 - lancer le notebook 
 
 Test : 
-![](https://github.com/Frozen_lake/FrozenLake_train.gif)
+![](https://github.com/Dvdzh/Frozen_lake/FrozenLake_train.gif)
